@@ -1,6 +1,6 @@
 # Go microservice
 
-Uses a generic script `script.sh` to simulate start & stop for Linux & MacOS based systems. 
+A simple golang microservice with minimal json config interface. 
 
 ## Usage 
 
