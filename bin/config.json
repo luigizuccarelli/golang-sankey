@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "port": "9000",
+    "level": "debug",
+    "url": "https://c2cddsjhpk.execute-api.us-east-1.amazonaws.com/prod/export/mongo?export=sankey&filter[source][page]=https://pro.international",
+    "threshold": "100",
+    "mongodb" : {
+      "host": "ds121753.mlab.com",
+      "port": "21753",
+      "name": "m97_tracker_dev",
+      "user": "m97Admin",
+      "pwd": "NGePVp2NejS2kkV0WAP4ky8Z",
+      "adminuser": "admin",
+      "adminpwd": "admin"
+    }
+}
